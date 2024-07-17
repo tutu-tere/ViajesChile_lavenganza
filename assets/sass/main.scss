@@ -1,0 +1,13 @@
+
+@import 'abstracts/variables',
+          'abstracts/mixins';
+
+@import 'vendors/bootstrap';
+@import 'base/reset';
+//layout
+@import 'components/carrousel';
+@import 'components/testimonios';
+//pages
+//themes
+//shame
+@import 'shame/shame';

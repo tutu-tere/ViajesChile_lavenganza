@@ -1,0 +1,6 @@
+#dependencias
+node_modules
+#archivo configuracion de vscode
+.vscode
+#archivos de configuracion mac
+.DS_STORE
